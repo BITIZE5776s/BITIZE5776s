@@ -194,19 +194,7 @@ Modular portfolio framework with server-side rendering and dynamic content manag
 ## Professional Certifications
 
 <div align="center">
-
-| Certification | Provider | Domain |
-|:-------------|:---------|:-------|
-| Business Analysis Professional | PMI | Business Strategy & Requirements |
-| Project Management Professional | PMI | Agile & Waterfall Methodologies |
-| SQL Advanced Certification | HackerRank | Database Design & Optimization |
-| JavaScript Intermediate | HackerRank | Modern JavaScript & ES6+ |
-| Frontend Developer | HackerRank | Web Development & UI/UX |
-| Cybersecurity Fundamentals | Fortinet | Security Best Practices |
-| Oracle Cloud AI Foundations | Oracle | Cloud Architecture & AI Services |
-| Project Management (NASBA) | NASBA | Business Process Management |
-
-</div>
+CertificationIssuerBadgeBusiness Analysis (PMI)Project Management InstituteShow ImageSQL AdvancedHackerRankShow ImageProject Management (PMI)Project Management InstituteShow ImageJavaScript IntermediateHackerRankShow ImageFrontend DeveloperHackerRankShow ImageCybersecurity FundamentalsFortinetShow ImageOracle Cloud AIOracleShow ImageProject Management (NASBA)NASBAShow Image
 
 ---
 
@@ -278,5 +266,8 @@ Specialized curriculum in enterprise software development, distributed systems, 
   <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
   
   <sub>*If I can see it, I can code it*</sub>
+
+  <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+⭐️ From BITIZE5776s
   
 </div>
