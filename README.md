@@ -89,7 +89,7 @@ DevOps & Infrastructure:
 
 ## GitHub Analytics
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BITIZE5776s&theme=github_dark" alt="GitHub Profile Details" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
