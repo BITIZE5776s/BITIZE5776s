@@ -90,16 +90,16 @@ DevOps & Infrastructure:
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BITIZE5776s&theme=github_dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakariaMirinioui&theme=github_dark" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=BITIZE5776s&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaMirinioui&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaMirinioui&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITIZE5776s&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaMirinioui&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 ---
 
@@ -112,8 +112,8 @@ DevOps & Infrastructure:
 <td width="50%" valign="top">
 
 #### **JudicialArchive**
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/JudicialArchive)
-[![Stars](https://img.shields.io/github/stars/BITIZE5776s/JudicialArchive?style=social)](https://github.com/BITIZE5776s/JudicialArchive)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ZakariaMirinioui/JudicialArchive)
+[![Stars](https://img.shields.io/github/stars/ZakariaMirinioui/JudicialArchive?style=social)](https://github.com/ZakariaMirinioui/JudicialArchive)
 
 Secure document management system developed for judicial administration. Implements role-based access control, audit logging, and end-to-end encryption for sensitive legal documentation.
 
@@ -124,8 +124,8 @@ Secure document management system developed for judicial administration. Impleme
 <td width="50%" valign="top">
 
 #### **Project-ARCUS**
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/BITIZE5776s/Project-ARCUS)
-[![Stars](https://img.shields.io/github/stars/BITIZE5776s/Project-ARCUS?style=social)](https://github.com/BITIZE5776s/Project-ARCUS)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/ZakariaMirinioui/Project-ARCUS)
+[![Stars](https://img.shields.io/github/stars/ZakariaMirinioui/Project-ARCUS?style=social)](https://github.com/ZakariaMirinioui/Project-ARCUS)
 
 Mobile application built with modern Android development practices. Clean architecture with MVVM pattern, dependency injection, and comprehensive testing suite.
 
@@ -138,8 +138,8 @@ Mobile application built with modern Android development practices. Clean archit
 <td width="50%" valign="top">
 
 #### **Cura**
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/Cura)
-[![Stars](https://img.shields.io/github/stars/BITIZE5776s/Cura?style=social)](https://github.com/BITIZE5776s/Cura)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ZakariaMirinioui/Cura)
+[![Stars](https://img.shields.io/github/stars/ZakariaMirinioui/Cura?style=social)](https://github.com/ZakariaMirinioui/Cura)
 
 Healthcare management platform with appointment scheduling, patient records, and real-time notifications. Built with privacy and data security as primary concerns.
 
@@ -150,7 +150,7 @@ Healthcare management platform with appointment scheduling, patient records, and
 <td width="50%" valign="top">
 
 #### **Dossera**
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/Dossera)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ZakariaMirinioui/Dossera)
 
 Document processing and workflow automation system. Handles complex business logic with microservices architecture and event-driven design.
 
@@ -168,7 +168,7 @@ Document processing and workflow automation system. Handles complex business log
 <td width="50%" valign="top">
 
 #### **AdminDash Core**
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/AdminDash_core)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ZakariaMirinioui/AdminDash_core)
 
 Enhanced fork of Tremor dashboard components. Added custom business logic, improved performance, and extended component library for enterprise applications.
 
@@ -178,7 +178,7 @@ Enhanced fork of Tremor dashboard components. Added custom business logic, impro
 <td width="50%" valign="top">
 
 #### **Portfolio Core**
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/BITIZE5776s/Portofolio-core)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ZakariaMirinioui/Portofolio-core)
 
 Modular portfolio framework with server-side rendering and dynamic content management. Optimized for performance and SEO.
 
@@ -262,11 +262,11 @@ Specialized curriculum in enterprise software development, distributed systems, 
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ZakariaMirinioui&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
   
   <sub>*If I can see it, I can code it*</sub>
 
-  <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-⭐️ From BITIZE5776s
+  <img src="https://komarev.com/ghpvc/?username=ZakariaMirinioui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+⭐️ From ZakariaMirinioui
   
 </div>
