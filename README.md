@@ -94,7 +94,7 @@ DevOps & Infrastructure:
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaMirinioui&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=ZakariaMirinioui&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaMirinioui&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
